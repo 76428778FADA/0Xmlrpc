@@ -2,7 +2,7 @@
 Wordpress XMLRPC brute force attacks
 ## INSTALLATION: 
 ```
-[#] git clone https://github.com/0xAbdullah/0xWPBF.git
+[#] git clone https://github.com/0xAbdullah/0Xmlrpc.git
 [#] pip install proxylist
 ```
 ## USAGE: 
